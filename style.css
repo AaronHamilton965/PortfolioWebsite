@@ -1,0 +1,54 @@
+html {
+  overflow-x: hidden;
+}
+
+nav {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  }
+
+.jumbotron {
+  margin-top: 200px;
+}
+
+.container-fluid {
+  margin-top: 200px;
+}
+
+.rounded-circle {
+  width: 300px;
+  height: 300px;
+}
+
+.about-me-text {
+  font-size: 18px;
+}
+
+.exp-img {
+  height: 150px;
+  width: auto;
+}
+
+.exp-img2 {
+  height: 300px;
+  width: auto;
+}
+
+.icon-logo {
+  height: 50px;
+  width: auto;
+  -webkit-transition: height 0.3s;
+}
+.icon-logo:hover {
+  height: 60px;
+  width: auto;
+}
+
+.card {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  -webkit-transition: transform 0.3s;
+}
+
+.card:hover{
+  transform: scale(1.05);
+box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
